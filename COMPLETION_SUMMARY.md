@@ -6,7 +6,7 @@ A comprehensive, production-ready healthcare patient monitoring dashboard has be
 
 ## 🚀 Access the Dashboard
 
-**URL**: http://localhost:5173/
+**URL**: http://localhost:5176/
 
 The development server is actively running with hot module replacement enabled.
 
@@ -15,7 +15,7 @@ The development server is actively running with hot module replacement enabled.
 ### ✨ Working Features
 
 #### Patient Monitoring ✅
-- [x] Real-time vital signs display (SpO2, Heart Rate, Temperature, BP)
+- [x] Real-time vital signs display (SpO2, Heart Rate) which helps to monitor chronic conditions and their severity
 - [x] Automatic data updates every 5 seconds
 - [x] Live gauge visualizations for main metrics
 - [x] 24-hour historical data charts
